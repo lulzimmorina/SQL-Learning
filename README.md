@@ -13,12 +13,17 @@ My goal is to build a solid foundation that I can directly apply in a profession
 ---
 
 ## Current Status & Roadmap
-I am iterating on this repo as I learn. Here is what I am working on:
+I am documenting my learning journey from scratch. I only check off items once I truly understand the underlying logic.
 
-- [x] Initial setup: GitHub account & first professional README
-- [ ] Learn basic Git commands (`add`, `commit`, `push`)
-- [ ] Understand branching and merging in Git
-- [ ] First SQL steps: `SELECT`, `WHERE`, and `JOIN` operations
+- [x] Initial setup: GitHub account & connecting VS Code to GitHub
+- [/] Basic Git workflow: Learning how to save changes via VS Code (Commits & .gitignore)
+- [/] First SQL steps: Creating tables and basic data entry
+      (Commands I used: SELECT, INSERT INTO, DELETE, DROP, ALTER TABLE, ADD COLUMN, WHERE, UPDATE, SET, CREATE, FROM)
+- [/] Consistent practicing of commit messages
+
+- [ ] Moving from VS Code buttons to Git commands in the Terminal
+- [ ] Understanding why and how to use SQL Joins
+- [ ] Practicing DB manipulation 
 
 ---
 
