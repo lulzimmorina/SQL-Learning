@@ -43,6 +43,18 @@
 -- ALTER TABLE learning_progress
 -- ADD COLUMN start_date TEXT;
 
+-- Query to update the start_date for existing records in the learning_progress table
+-- UPDATE learning_progress
+-- SET start_date = '2026-03-29'
+-- WHERE id = 1;
+
+-- UPDATE learning_progress
+-- SET start_date = '2026-03-29'
+-- WHERE id = 2;
+
+-- UPDATE learning_progress
+-- SET start_date = '2026-03-29'
+-- WHERE id = 3;
 
 -- ==========================================================================================================================
 -- 3. SELECT QUERIES TO VIEW DATA
@@ -51,7 +63,7 @@
 -- SELECT name FROM sqlite_master WHERE type='table';
 
 -- Query to select all records from the learning_progress table
--- SELECT * FROM learning_progress;
+SELECT * FROM learning_progress;
 
 -- Query to select all records from the sqlite_sequence table (if it exists)
 -- SELECT * FROM sqlite_sequence;
