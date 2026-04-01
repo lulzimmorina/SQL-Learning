@@ -1,2 +1,13 @@
+# Database files that should be ignored by Git
 *.db
+
+# macOS specific system files that should be ignored by Git
 .DS_Store
+
+# Windows specific system files that should be ignored by Git
+Thumbs.db
+
+# IDE specific files and folders that should be ignored by Git
+.vscode/
+
+# Future additions to the .gitignore file can be made here.
